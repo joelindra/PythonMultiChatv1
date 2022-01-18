@@ -7,3 +7,6 @@ USAGE :
 - python3 server.py #FOR RUN THE SERVER PROGRAM
 - python3 client.py localhost 9001 #FOR RUN THE CLIENT PROGRAM
 3. DONE 
+_____________________
+
+ＤＯＮ＇Ｔ ＦＯＲＧＥＴ ＴＯ ＦＯＬＬＯＷ ！
