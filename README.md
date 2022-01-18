@@ -11,4 +11,4 @@ _____________________
 
 ＤＯＮ＇Ｔ ＦＯＲＧＥＴ ＴＯ ＦＯＬＬＯＷ ！
 
-![Uploading git.gif…]()
+![gifs-on-cli](https://user-images.githubusercontent.com/44172898/149870008-33a7ae52-99d9-42c4-ba57-ce319f383f17.gif)
